@@ -13,6 +13,6 @@ public class book {
 
     @Override
     public String toString() {
-        return nameAutor + " " + nameAutor;
+        return " '"+nameBook + "' " + nameAutor;
     }
 }
